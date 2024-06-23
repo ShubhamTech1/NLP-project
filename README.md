@@ -1,3 +1,3 @@
-# project-4
+# NLP-project
 
 NLP- TASK:- spam and ham mail classification
