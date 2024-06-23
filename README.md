@@ -1,2 +1,2 @@
 # project-4
-NLP- TASK:- fake news classification
+NLP- TASK:- spam and ham mail classification
