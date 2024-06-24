@@ -1,3 +1,4 @@
 # NLP-project
 
-NLP- TASK:- 1] fspam and ham mail classification
+NLP- TASK:- 1] Fake News Classifier Using LSTM
+            2] Spam and Ham mail classification using naive bayes
